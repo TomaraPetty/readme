@@ -42,4 +42,4 @@ ${answers.installation}
 `;
 }
 
-module.export = generateMarkdown;
+module.exports = generateMarkdown;

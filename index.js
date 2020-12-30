@@ -77,7 +77,7 @@ function questions() {
 // });
 
 // // function to write README file
-// function writeToFile('README.md', data) {
+// function writeToFile("README.md", data) {
 //   let README = document.createElement('README');
 //   README.src = src; 
 // }
@@ -99,4 +99,3 @@ async function init() {
 
 // function call to initialize program
 init();
-// writeFileAsync();

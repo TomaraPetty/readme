@@ -1,8 +1,39 @@
-# readme
+# README Generator
+<a href="undefined">Click here to see it in action.</a>
+
+## Table of Contents
+* [Description] (#description)
+* [Usage](#usage)
+* [Installation](#installation)
+* [License](#license)
+* [Contributions](#contributions)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Description 
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
-Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. Review the Good README Guide as a reminder of everything that a high-quality, professional README should contain.
-The application will be invoked by using the following command:
-node index.js
+*Overview of this project.* 
+Generates a perfect README for every project.
+
+## Installation
+*Steps required to install project and get the development environment established.*
+undefined
+
+## License 
+* MIT
+
+## Usage
+*Instructions and examples for use:* 
+* Type "node index.js" into your terminal to run program.
+<img src="undefined">
+
+## Contributions
+* Tomara Petty
+
+## Test
+* Yes
+
+## Questions?
+* <img src="https://avatars3.githubusercontent.com/u/65513543?s=460&u=7fd3a6e46e3237fffa4a23f6c49517e5cb9aa01e&v=4" alt="GitHub profile image">
+* If you have any questions please reach out to me here: 
+* GitHub: @tomararuth 
+* Email: undefined
