@@ -2,6 +2,8 @@ const inquirer = require("inquirer");
 const fs = require('fs');
 const util = require('util');
 
+const writeFileAsync = util.promisify(fs.writeFile);
+
 // array of questions for user
 const questions = () => {
  return inquirer.prompt([
@@ -38,6 +40,16 @@ const questions = () => {
       },
       {
         type: 'input',
+        name: 'contributions',
+        message: 'Who are the contributors?',
+      },
+      {
+        type: 'input',
+        name: 'test',
+        message: 'Test?',
+      },
+      {
+        type: 'input',
         name: 'ghimage',
         message: 'Enter the web address of your GitHub profile photo:',
       }, 
@@ -54,14 +66,36 @@ const questions = () => {
   ]);
 }
 
-// function to write README file
-function writeToFile(fileName, data) {
-}
+// inquirer.prompt(questions).then(answers => {
+//   generateMarkdown();
+// })
+// .catch(error => {
+//   if(error.isTtyError) {
+//     console.log("Something went wrong.");
+//   }
+// });
+
+// // function to write README file
+// function writeToFile('README.md', data) {
+//   let README = document.createElement('README');
+//   README.src = src; 
+// }
+
+
 
 // function to initialize program
 const init = async () => {
-  console.log('hi');
+  try {
+    const answers = await questions();
+    const readMe = generateMarkdown(questions);
+
+    await writeFileAsync("README.md", readMe);
+    console.log('winning!');
+  } catch (err) {
+    console.log(err);
+  }
 }
 
 // function call to initialize program
 init();
+writeFileAsync();
