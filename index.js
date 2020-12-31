@@ -16,7 +16,7 @@ function questions() {
     {
         type: 'input',
         name: 'projectLink',
-        message: 'What is your name?',
+        message: 'Add a link to your project.',
       },
       {
         type: 'input',
