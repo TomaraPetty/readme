@@ -67,23 +67,6 @@ function questions() {
   ]);
 }
 
-// inquirer.prompt(questions).then(answers => {
-//   generateMarkdown();
-// })
-// .catch(error => {
-//   if(error.isTtyError) {
-//     console.log("Something went wrong.");
-//   }
-// });
-
-// // function to write README file
-// function writeToFile("README.md", data) {
-//   let README = document.createElement('README');
-//   README.src = src; 
-// }
-
-
-
 // function to initialize program
 async function init() {
   try {
@@ -91,7 +74,7 @@ async function init() {
     const readMe = generateMarkdown(answers);
 
     await writeFileAsync("README.md", readMe);
-    console.log('You won!');
+    console.log('Your README.md has been created!');
   } catch (err) {
     console.log(err);
   }

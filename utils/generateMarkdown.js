@@ -28,8 +28,8 @@ function generateMarkdown(answers) {
 ## License 
 * ${answers.license}
 
-## Contributions
-* ${answers.contributions}
+## Credits
+* Built & designed by ${answers.contributions}
 
 ## Test
 * ${answers.test}

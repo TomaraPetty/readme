@@ -6,7 +6,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributions](#contributions)
+* [Credits](#credits)
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -20,17 +20,18 @@
 
 ## Usage
 *Instructions and examples for use:* 
-* f
+* The page is a scroll website. You can scroll from top to bottom or use the navigation bar to be taken quickly to what you want to see. 
+
 <img src="./images/portfolio.gif">
-cd
+
 ## License 
 * BSD
 
-## Contributions
-* f
+## Credits
+* Bu
 
 ## Test
-* f
+* Use npm run tests. 
 
 ## Questions?
 <img src="https://avatars3.githubusercontent.com/u/65513543?s=460&u=7fd3a6e46e3237fffa4a23f6c49517e5cb9aa01e&v=4" alt="GitHub profile image">
