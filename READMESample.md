@@ -1,5 +1,5 @@
 # README Generator
-<a href="undefined">Click here to see it in action.</a>
+<a href="https://tomararuth.github.io/readme/">Click here to see it in action.</a>
 
 ## Table of Contents
 * [Description](#description)
@@ -12,17 +12,17 @@
 
 ## Description 
 *Overview of this project.* 
-* ${answers.installation}
+* Read me generator generates a perfect read me for every project. It prompts the user to add all of the customized information and delevers that information inside of an organized layout. 
 
 ## Installation
 *Steps required to install project and get the development environment established.*
-undefined
+* In order to use the 
 
 ## Usage
 *Instructions and examples for use:* 
 * f
-<img src="undefined">
-
+<img src="./images/portfolio.gif">
+cd
 ## License 
 * BSD
 
