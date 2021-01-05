@@ -1,8 +1,6 @@
 # README Generator
 
-![GitHub](https://img.shields.io/github/license//readme)
-
-https://img.shields.io/badge/license-MIT-green
+![GitHub](https://img.shields.io/badge/license-MIT-green)
 
 <a href="https://tomararuth.github.io/readme/">Click here to see it in action.</a>
 

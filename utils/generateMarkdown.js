@@ -1,8 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
   return `# ${answers.projectTitle}
-
-  /apm/l/:packageName
+  
+![GitHub](https://img.shields.io/badge/license-${answers.license}-green)
 
 <a href="${answers.prjectLink}">Click here to see it in action.</a>
 
