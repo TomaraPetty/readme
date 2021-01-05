@@ -1,6 +1,9 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
   return `# ${answers.projectTitle}
+
+  /apm/l/:packageName
+
 <a href="${answers.prjectLink}">Click here to see it in action.</a>
 
 ## Table of Contents

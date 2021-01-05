@@ -1,4 +1,7 @@
 # README Generator
+
+![GitHub](https://img.shields.io/github/license/TomaraPetty/readme)
+
 <a href="https://tomararuth.github.io/readme/">Click here to see it in action.</a>
 
 ## Table of Contents
