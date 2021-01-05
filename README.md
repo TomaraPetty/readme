@@ -11,11 +11,11 @@
 * [Questions](#questions)
 
 ## Description 
-*Overview of this project.* 
+*Overview of this project:* 
 * The README Generator is a command-line application that generates a detailed README for every project with all the bells and whistles. When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This README Generator includes sections to let the user know what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project. 
 
 ## Installation
-*Steps required to install project and get the development environment established.*
+*Steps required to install project and get the development environment established:*
 * To use the README Generator you can make a clone of this repo and open it in your code text editor of choice. Once you have done that you will need to install Inquirer by opening an integrated terminal and run "npm i inquirer." 
 
 ## Usage
@@ -36,6 +36,6 @@
 ## Questions?
 <img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image">
 
-* :wave: If you have any questions or want to make a contribution please reach out to me here: 
+* :wave:  If you have any questions or want to make a contribution please reach out to me here: 
 * GitHub: @TomaraPetty 
 * Email: tomara.petty@gmail.com

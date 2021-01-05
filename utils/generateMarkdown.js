@@ -13,16 +13,17 @@ function generateMarkdown(answers) {
 * [Questions](#questions)
 
 ## Description 
-*Overview of this project.* 
+*Overview of this project:* 
 * ${answers.description}
 
 ## Installation
-*Steps required to install project and get the development environment established.*
+*Steps required to install project and get the development environment established:*
 * ${answers.installation}
 
 ## Usage
 *Instructions and examples for use:* 
 * ${answers.usage}
+
 <img src="${answers.image}">
 
 ## License 
@@ -36,7 +37,8 @@ function generateMarkdown(answers) {
 
 ## Questions?
 <img src="${answers.ghimage}" alt="GitHub profile image">
-* If you have any questions please reach out to me here: 
+
+* If you have any questions or want to make a contribution please reach out to me here: 
 * GitHub: ${answers.github} 
 * Email: ${answers.email}
 `;
