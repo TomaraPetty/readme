@@ -28,14 +28,14 @@
 * MIT
 
 ## Credits
-* Tomara Petty
+* Built & designed by Tomara Petty.
 
 ## Test
 * No tests have been installed into this application. 
 
 ## Questions?
-<img src="https://avatars3.githubusercontent.com/u/65513543?s=460&u=7fd3a6e46e3237fffa4a23f6c49517e5cb9aa01e&v=4" alt="GitHub profile image">
+<img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image">
 
-* If you have any questions please reach out to me here: 
-* GitHub: @Tomararuth 
-* Email: undefined
+* :wave: If you have any questions or want to make a contribution please reach out to me here: 
+* GitHub: @TomaraPetty 
+* Email: tomara.petty@gmail.com
