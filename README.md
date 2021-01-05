@@ -39,6 +39,8 @@
 ## Questions?
 <img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image">
 
-* :wave:  If you have any questions or want to make a contribution please reach out to me here: 
+:wave:  
+
+* If you have any questions or want to make a contribution please reach out to me here: 
 * GitHub: @TomaraPetty 
 * Email: tomara.petty@gmail.com
