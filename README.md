@@ -25,7 +25,9 @@
 *Instructions and examples for use:* 
 * Once you have your Inquirer packages installed you can type "node index.js" into your integrated terminal to start. The command-line application will prompt the user to answer a series of questions about the project they are working on. The user will enter in the answers and when the application finishes through the questions it will compile the infromation into the README format and spit out a perfectly formated README.md file. 
 
-<img src="./images/portfolio.gif">
+* See a video of the README Generator in action here: https://youtu.be/6iiFqgY1uBk
+
+<img src="images/READMEexample.gif">
 
 ## License 
 * MIT

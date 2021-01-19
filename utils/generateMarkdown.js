@@ -4,7 +4,7 @@ function generateMarkdown(answers) {
   
 ![GitHub](https://img.shields.io/badge/license-${answers.license}-green)
 
-<a href="${answers.prjectLink}">Click here to see it in action.</a>
+<a href="${answers.projectLink}">Click here to see it in action.</a>
 
 ## Table of Contents
 * [Description](#description)
