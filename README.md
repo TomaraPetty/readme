@@ -41,5 +41,5 @@
  
 * :wave: &nbsp; If you have any questions or want to make a contribution please reach out to me here: 
 
-* GitHub: @TomaraPetty 
+* GitHub: tomara.petty@gmail.com 
 * Email: tomara.petty@gmail.com

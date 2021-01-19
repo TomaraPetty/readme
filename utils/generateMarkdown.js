@@ -30,7 +30,7 @@ function generateMarkdown(answers) {
 <img src="${answers.usageGif}">
 
 ## License 
-* ${answers.license}
+* Built under the ${answers.license} licence.
 
 ## Credits
 * Built & designed by ${answers.contributions}

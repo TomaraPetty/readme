@@ -25,7 +25,7 @@ function questions() {
       },
       {
         type: 'input',
-        name: 'instalation',
+        name: 'installation',
         message: 'What are the steps and instalation instructions to get the development environment running?',
       },
       {
