@@ -41,13 +41,18 @@ function questions() {
       },
       {
         type: 'input',
+        name: 'usageGif',
+        message: 'Relative path to a gif demonstrating the function of your site.',
+      },
+      {
+        type: 'input',
         name: 'contributions',
         message: 'Who are the contributors?',
       },
       {
         type: 'input',
         name: 'test',
-        message: 'Test?',
+        message: 'What tests have you installed?',
       },
       {
         type: 'input',
@@ -58,6 +63,11 @@ function questions() {
         type: 'input',
         name: 'github',
         message: 'Enter your GitHub Username',
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'Enter your email address',
       },
       {
         type: 'input',
@@ -73,7 +83,7 @@ async function init() {
     const answers = await questions();
     const readMe = generateMarkdown(answers);
 
-    await writeFileAsync("README.md", readMe);
+    await writeFileAsync("NewREADME.md", readMe);
     console.log('Your README.md has been created!');
   } catch (err) {
     console.log(err);

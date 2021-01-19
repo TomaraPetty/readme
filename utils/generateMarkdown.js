@@ -27,7 +27,7 @@ function generateMarkdown(answers) {
 *Instructions and examples for use:* 
 * ${answers.usage}
 
-<img src="${answers.image}">
+<img src="${answers.usageGif}">
 
 ## License 
 * ${answers.license}
@@ -40,10 +40,12 @@ function generateMarkdown(answers) {
 
 ## Questions?
 <img src="${answers.ghimage}" alt="GitHub profile image">
+<br>g
+If you have any questions or want to make a contribution please reach out to me here: 
 
-* If you have any questions or want to make a contribution please reach out to me here: 
 * GitHub: ${answers.github} 
 * Email: ${answers.email}
+* LinkedIn: ${answers.linkedin}
 `;
 }
 
