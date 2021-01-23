@@ -40,7 +40,7 @@ function generateMarkdown(answers) {
 
 ## Questions?
 <img src="${answers.ghimage}" alt="GitHub profile image">
-<br>g
+<br>
 If you have any questions or want to make a contribution please reach out to me here: 
 
 * GitHub: ${answers.github} 
